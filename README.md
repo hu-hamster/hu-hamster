@@ -1,4 +1,6 @@
-###  there 👋
+###  Hi I'm hu-hamster👋
+
+![hello](https://views.whatilearened.today/views/github/hu-hamster/deplives.svg)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hu-hamster)](https://github.com/hu-hamster)
 
