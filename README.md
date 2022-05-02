@@ -12,7 +12,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-hamster&theme=dracula&layout=compact&hide=javascript,css)
 
 <img src="https://github.com/hu-hamster/hu-hamster/blob/main/do.gif" width=80% height="600"></img>
-<img src="https://github.com/hu-hamster/hu-hamster/blob/main/gan.gif" width=80% height="600"></img>
+
 
 
 - 🌱 I’m currently learning Go, HPC, python
