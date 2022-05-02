@@ -2,7 +2,13 @@
 
 ![hello](https://views.whatilearened.today/views/github/hu-hamster/deplives.svg)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hu-hamster)](https://github.com/hu-hamster)
+![](https://raw.githubusercontent.com/hu-hamster/output/github-snake.svg)
+
+<p align="center">
+    <a href="https://github.com/DHDAXCW">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&count_private=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    </a>
+</p>
 
 - 🌱 I’m currently learning Go ...
 <!--
