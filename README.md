@@ -6,9 +6,12 @@
 
 <p align="center">
     <a href="https://github.com/DHDAXCW">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=merko" />
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=dracula" />
     </a>
 </p>
+
+<img src="https://github.com/hu-hamster/hu-hamster/blob/main/do.gif" width=100% height="600"></img>
+<img src="https://github.com/hu-hamster/hu-hamster/blob/main/gan.gif" width=100% height="600"></img>
 
 - 🌱 I’m currently learning Go ...
 <!--
