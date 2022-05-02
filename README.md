@@ -2,16 +2,13 @@
 
 ![hello](https://views.whatilearened.today/views/github/hu-hamster/deplives.svg)
 
-<p align="center">
-    <a href="https://github.com/hu-hamster">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=dracula" />
-    </a>
-</p>
+<a href="https://github.com/hu-hamster">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=dracula" />
+</a>
 
-<p align="center">
-    <img src="https://github.com/hu-hamster/hu-hamster/blob/main/do.gif" width=60% height="400"></img>
-    <img src="https://github.com/hu-hamster/hu-hamster/blob/main/gan.gif" width=60% height="400"></img>
-</p>
+<img src="https://github.com/hu-hamster/hu-hamster/blob/main/do.gif" width=60% height="400"></img>
+<img src="https://github.com/hu-hamster/hu-hamster/blob/main/gan.gif" width=60% height="400"></img>
+
 
 - 🌱 I’m currently learning Go, HPC, python
 - 📫 How to reach me: no way
