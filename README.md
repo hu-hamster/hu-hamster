@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://github.com/DHDAXCW">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=highcontrast" />
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=merko" />
     </a>
 </p>
 
