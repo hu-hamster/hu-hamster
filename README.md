@@ -1,10 +1,13 @@
 ###  Hi I'm hu-hamster👋
 
 ![hello](https://views.whatilearened.today/views/github/hu-hamster/deplives.svg)
+![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-green)
 
 <a href="https://github.com/hu-hamster">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=dracula" />
 </a>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-hamster&theme=dracula&layout=compact)
 
 <img src="https://github.com/hu-hamster/hu-hamster/blob/main/do.gif" width=60% height="400"></img>
 <img src="https://github.com/hu-hamster/hu-hamster/blob/main/gan.gif" width=60% height="400"></img>
