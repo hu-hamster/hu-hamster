@@ -3,7 +3,7 @@
 ![hello](https://views.whatilearened.today/views/github/hu-hamster/deplives.svg)
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-green)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hu_hamster)](https://github.com/hu-hamster/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hu_hamster&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/hu-hamster">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=dracula" />
