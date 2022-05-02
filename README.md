@@ -2,11 +2,11 @@
 
 ![hello](https://views.whatilearened.today/views/github/hu-hamster/deplives.svg)
 
-![](https://raw.githubusercontent.com/hu-hamster/output/github-snake.svg)
+
 
 <p align="center">
     <a href="https://github.com/DHDAXCW">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=gruvbox" />
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=tokyonight" />
     </a>
 </p>
 
