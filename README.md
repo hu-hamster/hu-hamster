@@ -9,7 +9,7 @@
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=dracula" />
 </a>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-hamster&theme=dracula&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-hamster&theme=dracula&layout=compact&hide=javascript,css)
 
 <img src="https://github.com/hu-hamster/hu-hamster/blob/main/do.gif" width=60% height="400"></img>
 <img src="https://github.com/hu-hamster/hu-hamster/blob/main/gan.gif" width=60% height="400"></img>
