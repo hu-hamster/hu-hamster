@@ -5,11 +5,31 @@
 
 - 🌱 I’m currently learning Go, python, HPC
 
-- 工作时间统计
+- 工作统计
+<table><tr>
+  <td>
+    <figcaption>周统计</figcaption>
+    <img src=https://wakatime.com/share/@hu_hamster/506668ee-cce8-481d-853b-a4a5e11ecb2d.png border=0>
+  </td>
+  <td>
+    <figcaption>月统计</figcaption>
+    <img src=https://wakatime.com/share/@hu_hamster/f5c7ea43-528f-4c9e-9d74-9231a8968b6a.png border=0>
+  </td>
+</tr></table>
 
-<img src="https://wakatime.com/share/@hu_hamster/5268ecb5-28a5-4371-b1ee-e6671d03c5b1.png" width=60% height="400"/></a>
+<table><tr>
+  <td>
+    <figcaption>年统计</figcaption>
+    <img src=https://wakatime.com/share/@hu_hamster/af9fe50d-cb74-4eae-8fd2-d58f8750a869.png border=0>
+  </td>
+    <td>
+    <figcaption>总时长</figcaption>
+    <img src=https://wakatime.com/share/@hu_hamster/c58f15d7-aa42-43a2-9855-2cf887c81e9a.png border=0>
+  </td>
+</tr></table>
 
-- 上周工作时长
+
+- 标签
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hu_hamster&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,12 +37,11 @@
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=dracula" />
 </a>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-hamster&theme=dracula&layout=compact&hide=javascript,css)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-hamster&theme=dracula&layout=compact&hide=javascript,css)]
 
+- 日常写代码状态
 
 <img src="https://github.com/hu-hamster/hu-hamster/blob/main/yaoshui.gif" width=80% height="400"></img>
-<img src="https://github.com/hu-hamster/hu-hamster/blob/main/yaoshui2.gif" width=80% height="400"></img>
-
 
 
 <!--
