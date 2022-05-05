@@ -15,9 +15,8 @@
     <figcaption>月统计</figcaption>
     <img src=https://wakatime.com/share/@hu_hamster/f5c7ea43-528f-4c9e-9d74-9231a8968b6a.png border=0>
   </td>
-</tr></table>
-
-<table><tr>
+</tr>
+<tr>
   <td>
     <figcaption>年统计</figcaption>
     <img src=https://wakatime.com/share/@hu_hamster/af9fe50d-cb74-4eae-8fd2-d58f8750a869.png border=0>
