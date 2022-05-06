@@ -21,6 +21,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: languages.svg
+          config_timezone: Asia/Shanghai
           token: ${{ secrets.METRIS_TOKEN }}
           base: ""
           plugin_starlists: yes
