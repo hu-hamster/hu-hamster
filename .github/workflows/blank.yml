@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.starlists.languages.svg
+          filename: languages.svg
           token: ${{ secrets.METRIS_TOKEN }}
           base: ""
           plugin_starlists: yes
