@@ -35,13 +35,12 @@
 
 - 标签
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hu_hamster&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-hamster&theme=dracula&layout=compact&hide=javascript,css)]
 
 <a href="https://github.com/hu-hamster">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hu-hamster&include_all_commits=true&theme=dracula" />
 </a>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-hamster&theme=dracula&layout=compact&hide=javascript,css)]
 
 - 日常写代码状态
 
