@@ -1,5 +1,10 @@
 ###  Hi I'm hu-hamster👋
 
+
+<!--
+ 此处可以添加自己的项目用于展示，限六个，目前没啥好的项目，就不丢人了...
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hu-hamster&repo=ginEssential) -->
+
 ![hello](https://views.whatilearened.today/views/github/hu-hamster/deplives.svg)
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-green)
 
