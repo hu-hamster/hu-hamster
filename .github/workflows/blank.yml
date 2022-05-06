@@ -17,5 +17,5 @@ jobs:
         with:
           template: terminal
           filename: metrics.terminal.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRIS_TOKEN }}
           base: header, metadata
