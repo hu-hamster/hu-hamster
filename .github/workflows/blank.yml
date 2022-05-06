@@ -18,7 +18,6 @@ jobs:
    github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: WakaTime
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.wakatime.svg
