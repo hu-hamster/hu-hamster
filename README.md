@@ -31,13 +31,18 @@
     <img src=https://wakatime.com/share/@hu_hamster/c58f15d7-aa42-43a2-9855-2cf887c81e9a.png border=0>
   </td>
 </tr>
+<tr>
+ <td>
+  <figcaption>语言</figcaption>
+  <img src="https://wakatime.com/share/@hu_hamster/62d4de64-bf2f-4634-ac2e-2badb88006e0.png">
+ </td>
+ </tr>
 </table>
 
 
 - 标签
 
-[![All time of Language](https://wakatime.com/share/@hu_hamster/c27fc4d7-13d5-4a7a-a6e0-b39203705ec3.png)]
-
+ 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hu-hamster&theme=dracula&layout=compact&hide=javascript,css)]
 
 <a href="https://github.com/hu-hamster">
