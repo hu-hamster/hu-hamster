@@ -8,6 +8,7 @@
 ![hello](https://views.whatilearened.today/views/github/hu-hamster/deplives.svg)
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-green)
 
+- 最近在实习和忙着秋招，很少用编辑器写代码，代码统计会空白一段时间，等拿到offer继续干活
 - 🌱 I’m currently learning Go, python, HPC
 
 - 工作统计
